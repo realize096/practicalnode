@@ -13,8 +13,8 @@
   "author": "Azat Mardan (http://azat.co/)",
   "license": "MIT",
   "dependencies": {
-    "good": "7.3.0",
-    "hapi": "16.6.2",
+    "good": "8.1.2",
+    "hapi": "18.1.0",
     "mongodb": "2.2.33",
     "mongoskin": "2.1.0"
   },
