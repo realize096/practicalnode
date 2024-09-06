@@ -9,7 +9,7 @@
   "dependencies": {
     "express": "4.16.2",
     "pug": "2.0.0-rc.4",
-    "stylus": "0.54.5"
+    "stylus": "0.54.8"
   },
   "devDependencies": {
     "expect.js": "0.3.1",
